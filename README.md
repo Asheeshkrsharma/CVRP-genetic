@@ -8,4 +8,13 @@ The capacitated vehicle routing problem is a well-studied combinatorial computin
 # How to run
 bash start-cvrp
 
+# How to plot aniated gif
+1. Navigate to Plot_tools
+2. Place your solution file there – best-solution.txt. (if you want to plot the entire search process, add the intermediate routes as-well).
+3. Run ./animate.sh
+4. Output: animate.gif
+
+Note: The vrp data is already present in animate.cc. So if you need to use this with other
+vrp data, it should be changed there.
+
 # Results
