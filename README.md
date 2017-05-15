@@ -18,3 +18,9 @@ Note: The vrp data is already present in animate.cc. So if you need to use this 
 vrp data, it should be changed there.
 
 # Results
+Best so far
+![alt text](https://github.com/Asheeshkrsharma/CVRP-genetic/blob/master/5.png "Logo Title Text 1")
+
+Animated gif
+![alt text](https://github.com/Asheeshkrsharma/CVRP-genetic/blob/master/5.png "Logo Title Text 1")
+
