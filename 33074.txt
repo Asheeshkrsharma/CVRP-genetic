@@ -1,0 +1,19 @@
+COMSM0305: CVRP Assignment
+
+Candidate #: 33074
+
+Mark: 68%
+
+Breakdown:
+   S = Best cost submitted:  6339
+   V = Best cost verified:   6365
+   R = Mark based on cost V: 66.5
+   D = Penalty:              0.0
+   C = Code mark (R-D):      66.5
+   P = Poster mark:          8
+   Overall mark (0.9*C+P):   68
+
+Comments:
+   Poster: There is good evidence of reading and/or insight.
+   Poster: Presentation (layout, reference format, etc.) could be improved.
+   Poster: Rather too much text on poster.

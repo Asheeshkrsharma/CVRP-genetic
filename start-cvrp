@@ -1,0 +1,3 @@
+#!/bin/tcsh
+g++ CVRP.cpp -o CVRP
+./CVRP
