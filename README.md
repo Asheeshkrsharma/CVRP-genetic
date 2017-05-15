@@ -22,5 +22,5 @@ Best so far
 ![alt text](https://github.com/Asheeshkrsharma/CVRP-genetic/blob/master/5.png "Logo Title Text 1")
 
 Animated gif
-![alt text](https://github.com/Asheeshkrsharma/CVRP-genetic/blob/master/5.png "Logo Title Text 1")
+![alt text](https://github.com/Asheeshkrsharma/CVRP-genetic/blob/master/output.gif "Logo Title Text 1")
 
